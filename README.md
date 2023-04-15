@@ -1,6 +1,6 @@
 # Welcome to my Profile, call me Nguyễn Minh Lợi.
 
-- 🎓 Fresher student in Information Technology at the University of Science, VNUHCM.
+- 🎓 Fresher student in Information Technology - Honours Degree at the University of Science, VNUHCM.
 - 🎂 Birthday: 02/12/2004
 - 🧍 My idol: [Facebook](https://www.facebook.com/profile.php?=75816879)
 
