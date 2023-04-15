@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my Profile, call me Nguyễn Minh Lợi.
 
-<!--
-**mf0212/mf0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Fresher student in Information Technology at the University of Science, VNUHCM.
+- 🎂 Birthday: 02/12/2004
+- 🧍 My idol: [Facebook](https://www.facebook.com/profile.php?=75816879)
 
-Here are some ideas to get you started:
+---
+## Social Media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/facebook.png)](https://www.facebook.com/songdonggiaphuc) &emsp;
+[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/gmail.png)](mailto:fusodoya@gmail.com) &emsp;
+[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/linkedin.png)](https://www.linkedin.com/in/fusodoya/) &emsp;
+[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/instagram.png)](https://www.instagram.com/fusodoya/) &emsp;
