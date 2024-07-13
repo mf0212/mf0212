@@ -39,4 +39,4 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/mf0212/mf0212/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mf0212/mf0212/output/github-contribution-grid-snake.svg)
