@@ -1,26 +1,42 @@
-# Welcome to my Profile, call me Nguyễn Minh Lợi.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-- 🎓 Junior student in [**Information Technology**](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) Honours Degree at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/).
-- 🎂 Birthday: 02/12/2004
-- 🧍 My idol: [Facebook](https://www.facebook.com/profile.php?=75816879)
+  <h1>
+    hey world
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+</div>
 
----
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<br />
+<!--- <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"> -->
+# 😎 About me
+- 🔭 I’m Nguyen Minh Loi &nbsp;
+- 🌱 I'm a Computer Science student with a strong passion for coding and AI at Ho Chi Minh University of Science.
+- 💚 
 
----
+# 🌐️ Connect with me
 
-### Social Media
+<div align="center">
+  <a href="https://www.facebook.com/nguyenminhloimf"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
+  <a href="https://www.linkedin.com/in/nguyenminhloimf/"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
+</div>
 
-[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/facebook.png)](https://www.facebook.com/nguyenminhloimf/) &emsp;
-[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/gmail.png)](mailto:nguyenmunhloipv@gmail.com) &emsp;
-[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/linkedin.png)](https://www.linkedin.com/in/nguyenminhloimf/) &emsp;
-[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/instagram.png)](https://www.instagram.com/mf7_212/) &emsp;
+
+# 🛠 Languages and Tools
+
+<div id="badge" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/&ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"  title="rust" alt="rust" width="40" height="40"/>&ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&ensp;
+</div>
+
+
+
+![Snake animation](https://raw.githubusercontent.com/mf0212/mf0212/output/github-contribution-grid-snake-dark.svg)
